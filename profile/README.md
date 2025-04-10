@@ -14,6 +14,13 @@
 La génération vidéo par intelligence artificielle a longtemps été perçue comme complexe et réservée aux professionnels de l'animation. Pourtant, Pika Labs bouleverse cette idée reçue en rendant cette technologie accessible à tous, grâce à une conversion intuitive du texte en vidéo. Lancée récemment sur le marché, cette plateforme promet de transformer une simple phrase descriptive en séquences vidéo fluides et réalistes. Alors que Runway Gen-2 et Leonardo AI se concentrent principalement sur la qualité brute de l'image, Pika Labs mise avant tout sur la dynamique naturelle des scènes et la fluidité des mouvements.
 </p>
 
+<img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQFfsLzdQ1Ck3Q/articleshare-shrink_800/articleshare-shrink_800/0/1714769707972?e=2147483647&v=beta&t=4SJIiDF4uAtFS5132Gnwbh7c06XFWwR8N0-qIcrnNy8"
+  alt="PikaLabs"
+  width="400"
+  height="225"
+/>
+
+
 <h3>Personnalisation poussée des mouvements de caméra et scènes</h3>
 <p>
 Un des principaux atouts de Pika Labs réside dans la possibilité d'une personnalisation fine des mouvements de caméra et des scènes. À l'inverse de certains outils comme LensGo AI ou Leonardo AI qui offrent des rendus préparamétrés, Pika Labs permet une édition poussée du cadre et du parcours de la caméra durant la vidéo.
