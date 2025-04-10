@@ -1,4 +1,4 @@
-<h1>Meilleur générateur d'images IA (Test 2025) : Quelle plateforme choisir pour vos créations visuelles ?</h1>
+![image](https://github.com/user-attachments/assets/e62569ad-702c-42ad-9f72-0945d5b77d02)<h1>Meilleur générateur d'images IA (Test 2025) : Quelle plateforme choisir pour vos créations visuelles ?</h1>
 <p><strong>Expert IA</strong> | <time datetime="2025-04-10">10 Avril, 2025</time></p>
 
 <img src="https://cdn.discordapp.com/attachments/337687742488117261/1359904505025794238/lensgo_ai_test.png?ex=67f92d43&is=67f7dbc3&hm=cf7964a6bb41ecc6af7032fc55cb3f9a2a50fdada4f27faac9415abc03015a29&"
@@ -116,11 +116,17 @@ Cette accessibilité s'inscrit parfaitement dans une volonté croissante de rend
 
 <p>D'après des tests comparatifs internes réalisés par OpenAI en 2024, DALL·E 3 génère efficacement 40 % de variations stylistiques en plus comparativement aux modèles actuels tels que Runway Gen-2 ou Pika Labs. Ainsi, les professionnels profitent d'un atout compétitif considérable, leur permettant de se démarquer clairement sur leur marché. Cette polyvalence stylistique associée à son efficacité fait de DALL·E 3 un choix incontournable auprès des équipes créatives modernes en 2025.</p>
 <h2>Leonardo AI : Un générateur visuel complet et intuitif</h2>
+
+<img src="https://learning.sharpnerr.com/wp-content/uploads/2024/11/Leonardo-AI-logo-760x424.jpg"
+  alt="Leonardo AI"
+  width="20%"
+/>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">Clique ici pour récuperer 100 crédit à la création du compte sur LensGo AI !</a>
+
 <p>
 Dans le panorama en pleine expansion des outils basés sur l'intelligence artificielle, Leonardo AI se démarque clairement comme une solution à la fois accessible et performante. Grâce à une interface épurée, même les utilisateurs les moins aguerris peuvent rapidement prendre en main cet outil innovant. Comparativement à d'autres plateformes telles que LensGo AI ou Midjourney, la particularité de Leonardo AI réside dans son caractère complet : création d'images fixes ou animées, transformations visuelles variées et surtout imprégnation d'une approche intuitive facilitant l'expérience utilisateur. C'est cette polyvalence remarquable qui a séduit plus de 500 000 utilisateurs en seulement une année, positionnant Leonardo AI parmi les leaders de son domaine en 2025.
 </p>
-
-<a target="_blank" href="https://lensgo.ai/?via=new">Clique ici pour récuperer 100 crédit à la création du compte sur LensGo AI !</a>
 
 <h3>Créer facilement des images et vidéos de qualité professionnelle</h3>
 <p>
