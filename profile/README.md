@@ -16,8 +16,7 @@ La génération vidéo par intelligence artificielle a longtemps été perçue c
 
 <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQFfsLzdQ1Ck3Q/articleshare-shrink_800/articleshare-shrink_800/0/1714769707972?e=2147483647&v=beta&t=4SJIiDF4uAtFS5132Gnwbh7c06XFWwR8N0-qIcrnNy8"
   alt="PikaLabs"
-  width="400"
-  height="225"
+  width="30%"
 />
 
 
