@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e62569ad-702c-42ad-9f72-0945d5b77d02)<h1>Meilleur générateur d'images IA (Test 2025) : Quelle plateforme choisir pour vos créations visuelles ?</h1>
+<h1>Meilleur générateur d'images IA (Test 2025) : Quelle plateforme choisir pour vos créations visuelles ?</h1>
 <p><strong>Expert IA</strong> | <time datetime="2025-04-10">10 Avril, 2025</time></p>
 
 <img src="https://cdn.discordapp.com/attachments/337687742488117261/1359904505025794238/lensgo_ai_test.png?ex=67f92d43&is=67f7dbc3&hm=cf7964a6bb41ecc6af7032fc55cb3f9a2a50fdada4f27faac9415abc03015a29&"
