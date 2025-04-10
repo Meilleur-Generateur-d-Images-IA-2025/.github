@@ -54,6 +54,7 @@ Cette accessibilité s'inscrit parfaitement dans une volonté croissante de rend
   alt="runway gen"
   width="20%"
 />
+
 <a target="_blank" href="https://lensgo.ai/?via=new">Clique ici pour récuperer 100 crédit à la création du compte sur LensGo AI !</a>
 
 <p>Runway Gen-2 se positionne aujourd’hui comme un incontournable dans la création vidéo assistée par intelligence artificielle. Alors que ses concurrents tels que LensGo AI ou Pika Labs misent majoritairement sur une spécialisation précise, Runway Gen-2 se démarque en proposant une approche multimodale innovante. Il permet non seulement de générer automatiquement des vidéos à partir de simples descriptions textuelles, mais également d'intégrer directement des images ou clips vidéo existants pour produire rapidement des créations uniques et engageantes.</p>
@@ -85,6 +86,7 @@ Cette accessibilité s'inscrit parfaitement dans une volonté croissante de rend
   alt="Dall E 3"
   width="20%"
 />
+
 <a target="_blank" href="https://lensgo.ai/?via=new">Clique ici pour récuperer 100 crédit à la création du compte sur LensGo AI !</a>
 
 
@@ -154,6 +156,7 @@ En résumé, Leonardo AI se positionne efficacement en combinant simplicité, po
   alt="Midjourney"
   width="20%"
 />
+
 <a target="_blank" href="https://lensgo.ai/?via=new">Clique ici pour récuperer 100 crédit à la création du compte sur LensGo AI !</a>
 
 <p>Parmi les nombreuses solutions d'intelligence artificielle pour la création de visuels, Midjourney occupe aujourd’hui une place privilégiée auprès des designers et artistes numériques. Lancée pour répondre aux attentes croissantes en matière de rapidité et d'originalité, Midjourney se démarque par une capacité étonnante à transformer de simples descriptions textuelles en visuels riches et détaillés.</p>
@@ -189,6 +192,7 @@ En résumé, Leonardo AI se positionne efficacement en combinant simplicité, po
   alt="Lensgo AI"
   width="20%"
 />
+
 <a target="_blank" href="https://lensgo.ai/?via=new">Clique ici pour récuperer 100 crédit à la création du compte sur LensGo AI !</a>
 
 <h3>Conversion de texte en image, une fonction essentielle</h3>
